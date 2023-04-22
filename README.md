@@ -1,3 +1,3 @@
 # ilearn5
-the sun 
-the moon and the stars
+the sun
+the earth and the ocean
